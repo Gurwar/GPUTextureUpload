@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+     Creating library D:\BMAD\GPUTextureUpload\GPUTextureUpload\GPUTextureUpload\x64\Release\GPUTextureUpload.lib and object D:\BMAD\GPUTextureUpload\GPUTextureUpload\GPUTextureUpload\x64\Release\GPUTextureUpload.exp
+  Generating code
+  31 of 84 functions (36.9%) were compiled, the rest were copied from previous compilation.
+    22 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GPUTextureUpload.vcxproj -> D:\BMAD\GPUTextureUpload\GPUTextureUpload\GPUTextureUpload\x64\Release\GPUTextureUpload.dll
